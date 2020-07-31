@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Islas del Viento]]></title><description><![CDATA[Un nuevo fangame de Pokémon hecho en una base decompilada.]]></description><link>https://islasdelviento.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Jul 2020 17:59:39 GMT</lastBuildDate><item><title><![CDATA[Nueva página web]]></title><description><![CDATA[Dos meses tras el lanzamiento de la primera versión jugable de Islas del Viento, lanzamos la página web oficial. Esta página web está…]]></description><link>https://islasdelviento.github.io/posts/hello-world/</link><guid isPermaLink="false">https://islasdelviento.github.io/posts/hello-world/</guid><pubDate>Tue, 04 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Islas del Viento]]></title><description><![CDATA[Un nuevo fangame de Pokémon hecho en una base decompilada.]]></description><link>https://islasdelviento.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Jul 2020 18:51:10 GMT</lastBuildDate><item><title><![CDATA[Nueva página web]]></title><description><![CDATA[Dos meses tras el lanzamiento de la primera versión jugable de Islas del Viento, lanzamos la página web oficial. Esta página web está…]]></description><link>https://islasdelviento.github.io/posts/hello-world/</link><guid isPermaLink="false">https://islasdelviento.github.io/posts/hello-world/</guid><pubDate>Tue, 04 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 650px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.40365111561866%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB8ElEQVQoz3VRy2oUQRSdD3MlbsSlIIgf4CcEEd0ZyMKFKx8bNy6CICI9TfcMAaOuVMg8EmUyZmIwmST9flR19buPt6ozDhrnwuFWVd9z+tx7O/pQhzk20d/ro7fXg7nbno2xge6wC22oQRto0Mc6+iMD218NfNzp4f2OSfWmqpfojrrYGmyhgwpQ+Ce8cxezySHmR3P8mh3j6MdP7H+fYrp/gDT7D6EGirRAh3EGiUQk4IIjZjERUuRFDpEKZHmGNE/Vm6wpy6Jlq6hQNxWKqlQakttJkgRCCERhCN914XkeCaVYFQ5LMDgOMJ3sYnzC4PkCQpogDmesFZSXnDI/PUXJOCq6N03zF6q6dfXm8wRX7j3F7fXHuLnxHGuv3mL7gAyUghwuBLMMIo7Bzs5QlyUaIq8SfPdlhGsPH+Dqkw+4vr6GG/fvYnPIaAoZopgtWxaUkzBAfUFcJWh8O8Gdl5u49aKPR681PNM/YTCzUNHM/ziUgo7jYE4tLwRXRUafHeowyGmrOXVS0FLyXGlwzpeCIS3FJlGPFuMSLMtWWcK2bQX5U9e2EPoOosCjBbrgxJfuLwlGUahIvu8pEUX2PLV1x2lF5TkIAmRZfoFMLbSkuV8SjGkprusop77vK6LM7Xn55lDN4ptlWcqhnPFC4zfbmTOsIzo8SwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 57.668711656441715%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAACU0lEQVQoz4VSS2sTURTODyilXYgYFNu/4DakYFsXbgQVwZ0rKSUBs5DuXLXaKC5EF+rCUrvQbpKUdOErW8VKkoLURYcqMQ15TzIzuXfemc9zZ5Ko1MeFjznn3HO+c853JzSbnMVccg4zt2cQXYkishLB/N15TN2cwtjiGCZiE5iMTeJY4jjOXjmJixdO+zhzLYzw0imEEycwvTSN8dg44mtxhDL5DLaKW8gUgm+6kA783QzSu2mkiikf2c9ZvMtvI7eTxZsPGWR3RJzuCym/ZvPTJnLFHEJwceS4hoP9PQm17zWUpBIq3w4hfZEg7R+gVKrgj8cDTG4ipDENuqGDE5jOfNuyTag9DT3WG0BDp9uBoiowdQ7Pc0U9vL4Np+/CtExolC8Q0nUdKiU263W0Wy0q0vCvo1oWOowadmUopljHgU2EnHh6vV5A6Ng2DFmGwzlc06TO/WACzxuBgr46iY3XuHpvAwurq1hYz+HxqyIO6gy2qdOEA0KDoFWrsBiDS+SCEH8hjD96inN3nuH8w21cunUdl5PLyFfp2mLQtAGhZRjgtHLfcY4QjQhpZpv6xJ6/QPT+OiLLL7H45AFurKWwV1HhWkZAaBCZLLdRLpch7P+dj4c63kpNvP/aRqOpoqtapB2H/quGwpBJQ8a4T8po9aHNOfN9neu+3adJSBd4jkUPIV6cpHBduuM/CcUr12p16thAo9Egu+ZjaFergV8nWZqtNv1CCqELRVH8Zjbp/huhcESCpmkjqKpKCGxROIyJXEFg0t8gNnDdPhzSXsRFzg8PpVVE+f24SwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Captura de la web&quot;
         title=&quot;Captura de la web&quot;
-        src=&quot;/static/db8f649c067db8d3407e1d72ad8e22a0/dc2fe/web-scrshot.png&quot;
-        srcset=&quot;/static/db8f649c067db8d3407e1d72ad8e22a0/fc8b9/web-scrshot.png 163w,
-/static/db8f649c067db8d3407e1d72ad8e22a0/d53b1/web-scrshot.png 325w,
-/static/db8f649c067db8d3407e1d72ad8e22a0/dc2fe/web-scrshot.png 650w,
-/static/db8f649c067db8d3407e1d72ad8e22a0/6251f/web-scrshot.png 975w,
-/static/db8f649c067db8d3407e1d72ad8e22a0/78e1e/web-scrshot.png 986w&quot;
+        src=&quot;/static/db8f649c067db8d3407e1d72ad8e22a0/a6d36/web-scrshot.png&quot;
+        srcset=&quot;/static/db8f649c067db8d3407e1d72ad8e22a0/222b7/web-scrshot.png 163w,
+/static/db8f649c067db8d3407e1d72ad8e22a0/ff46a/web-scrshot.png 325w,
+/static/db8f649c067db8d3407e1d72ad8e22a0/a6d36/web-scrshot.png 650w,
+/static/db8f649c067db8d3407e1d72ad8e22a0/e548f/web-scrshot.png 975w,
+/static/db8f649c067db8d3407e1d72ad8e22a0/0a867/web-scrshot.png 986w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -104,22 +104,22 @@
 &lt;td&gt;Código QR&lt;/td&gt;
 &lt;td&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 650px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsSAAALEgHS3X78AAAEAUlEQVQ4y01U608aWRT3/+m3fuuH/g9N2qRJkyZtkzZSa4O1NGKBtgFSWgoICspDBHkJZVgKDAwwPIVBwReCymNBQbRqBdatWl0e7pmV7O7NzM2ZM7/HuXPP3L6rf0a3222321f/G+1O77HT6fwbk/l2G8DXcR/cP3/9HPeOs6wsJIVcti4NcYM6ombb2a/0rwRuQaKYMBLG6nEVkPYlO8BEHlHzrNkjT/gmXs6+fG97P6AZ8Gf9zzXPx7AxYN5k3Hxreds4bSRLyfvj9/EsTlFTWAjrtfH1F/RLjww08LkxckOGy6YCU7F8LF6IN84a6BrKtDI1UY0n7XGsOBQhhdgrBtgn5yfIt9otkgzVDuoGJwOTFA2lfFSWB+VMhBnJRegWOnB8Gd/cwpwhYcjUMv2afikupRqopoSp5wwjtBWSh+WrldXTi9Ol7aXMbgb4s/FZkVe0VlkDOVABq8pxRRlWejPeVqdFkuFL6hN6WBjTxuQ6udPR6Wg+KvFLbrFvUY3UuxN3P7s/P5h6YElatva3YCFQEc1MU0fVPWdFWKEn9DpCJ8AE2rjWv+EHMtvBTpaTT6af3JPem1ucI4rESmWFbqVDUuwTg1mPXGvUNHHN9o9tKJvn5j3TPmPYGA9VD1l2FpbFYsUY1LK+u25btkmD0sJBYb+5Dx4XrQuSXK1XZSEZ7DbgvFmvK+168/XNeGAcTaOg5Vxz7jX3zCmz0Cc0JU0iv4iO0D+6P3a6nb7uFdku+YO8bkH3zvGOg3J2G7twCXwCwAGI4+KsVldfGF9QzVTlvFJLaO2rdmfa2XMGPTSDBnKB0d9GZWFZOB+GTU6UElAR182VBCXJ7STFQIkWoqWj0gwxY1m2gHpvzcPWYeY3ZvGo+EjzyJ1115o1bAPDt3A2ylbGlMgKQkNoQ5ahvT/2NvY3eBjPte4COdgmksz1cPk+PrgxHAxjyohmUeCoYiq+n79T3xm1j1YbVUVM8Xj2sSgg6jf2DyPDzfPmf02C53BVXJWupSF+angKUJqNJg6KIRgwDwRzQQEuACFsE6N+pR7+eXj9Y5Fk35Zv5NsI4GAuHBWoVirPxxu0DH5wf/Dn/PKY3LPpuSO/Ey/Fp4npyfnJ6O/RcDHcIwuDQkFQcHvstnZROxWbAqgr45JGpRyMM7MwM4QMRYoRQ8ogDAlhUcvV5cWdRT7O75GVhJLj5UgiEoaLkaqkiDJhWjblDnObB5sgKg6L+QG+I+MoH5fB0LpmZWNsAEN7k+STXycKQgHCSBqBR1VCZU1bCz8KYA75Sr0CVtJ5KbxCN1A8j38/+V4/q5NNQp5BV12ILtoX1+cRSMI2wJFCzu3L87/OIU8mu21oDEB2SRT5wf4GFhCCv1nNNgUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsSAAALEgHS3X78AAAECklEQVQ4y01UaVPaahT233Ta/9C/0OmHfnA60+liZ9qptNYRVwYQqQpUW0LdUNxwgySAQiWLBFlkXyyKKXi5iEu1Wql6q6IgeE8qd3knmTl53+c5z3NOclJx/XuVSqWr4tX1P6tYKsL6Ny4UC/8dFYul69JNXAH3yfkJQiISowQP4Ll8DgtgH4mPH4gPL4ZfwH4oHdIuaXeyO4DEg3ibqQ1Os6fZMllFqWq0NUJcyBvnkTHy7cTbjrkOASq403BHhIsA5/zqfDzw2PrFCgDY50/zITVHBletxlYA3W64jVCImlEHUgFmjTm9ODWEDCKDCGSNYaMtbhtgBrqt3bfqb0lnpUDJX+U5ZTyEV2urVbSKp+Wl9lMah6ZJ3wRuG3QN5AppZ+2TnkksiEUz0erxaiWlrJ2qRQNo2TZ0CxBquzqYDu6f7C9nll0Jl9goVi2oOj93xrZiCquCWCHAy9bh1qBj0BqzQms4cuGqgAbRw1+HUrMUoREwubq9+p54fx+5/2bqzVPN0x5bT2V/JbFKgLIj4SBXyUa0cdo3zZGh73Csdqg1Lk27pb2L7KLjdDPe3GZuW1hbeND74B5yb8g5FMlEqDjVYmhhWEZBKHaPd8u29072dEHd9s9tdpftproFRgGAmvAm8ZzYte4KZ8IgCKczgRk0hCb2ElCaPqi/KFxw5M3sJmJDjs6OXEmXMWqcj81XjVZ9Yj4BWmKRzC7Ppg5SWBiDpECWWqR8lC8xS+DLqYBuAR/yaX1akBLOCg/+Okh+Tw44BzqJTplVJiflnj88zcbmZ2PP9CH9qGeUXqNplj7Pn3PKM8EZIk4wXxmxWdzr6HWn3FBIKBPaONyQEbLhpWE4ajQ0OpNOMA8apqhp52inXPOrmVd8nA8FVw5V4hH8x68f+rAectdhdT2LPZC6SltVi9Wyeyz4rzfUz8XmfGkfzAJHVtqVIAivUU7J0Qjq/dOrdqtNX0yqRRUkUtAK0LGsWB6NPZoOTr/WvxZ/Fp9dnpWVoW8US437x8Ob4Vwh92TiSet8aw1WIzALkEXk+dRzfUQvo2TL28skSz4cffjt+NvNCHJk6ivVYmnpd/cLLcLEfqKdalfYFB1Uh5SQ+jf8k6FJ8PlS99K+bkej6KBnEDx7097fH0mp1MV0yW3yu8q7w/7hXncvnaBHfCN9rr46U12fu4+H8UwxExbFRPMiCKCd3g3vO+odTBSnrPFp4EHlVAnmBZHtiD/jnwpPpQ/T7HdWuahUe9SQeiG5EN+LL6WXoAQA9y/1c++Z+xnkTkb8I0A2r5rhcSI0oYvqNn9uIk4EvEAAnLHgGKCZdcaWtGXPsse547LyzWDBfN4EAILrsnAJO5dXlxDAfr6YBzS09v9/q78BKlGBFYnnFmIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;img&quot;
         title=&quot;img&quot;
-        src=&quot;/static/48d80c53be9e82fde24b56b60a603d85/dc2fe/iv03.png&quot;
-        srcset=&quot;/static/48d80c53be9e82fde24b56b60a603d85/fc8b9/iv03.png 163w,
-/static/48d80c53be9e82fde24b56b60a603d85/d53b1/iv03.png 325w,
-/static/48d80c53be9e82fde24b56b60a603d85/dc2fe/iv03.png 650w,
-/static/48d80c53be9e82fde24b56b60a603d85/6251f/iv03.png 975w,
-/static/48d80c53be9e82fde24b56b60a603d85/85261/iv03.png 1155w&quot;
+        src=&quot;/static/48d80c53be9e82fde24b56b60a603d85/a6d36/iv03.png&quot;
+        srcset=&quot;/static/48d80c53be9e82fde24b56b60a603d85/222b7/iv03.png 163w,
+/static/48d80c53be9e82fde24b56b60a603d85/ff46a/iv03.png 325w,
+/static/48d80c53be9e82fde24b56b60a603d85/a6d36/iv03.png 650w,
+/static/48d80c53be9e82fde24b56b60a603d85/e548f/iv03.png 975w,
+/static/48d80c53be9e82fde24b56b60a603d85/b7936/iv03.png 1155w&quot;
         sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
